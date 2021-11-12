@@ -1,0 +1,57 @@
+mse,feat,time_step,step
+0.01958556658714446,daily_sum,,35.0
+0.019750373763921174,"daily_sum,Google Ads",,35.0
+0.01894558048647018,"daily_sum,Google Ads,Product D",,35.0
+0.02262186720946421,"daily_sum,Google Ads,Product D,Product A",,35.0
+0.01866075823859093,"daily_sum,Google Ads,Product D,Product A,Organic search",,35.0
+0.02181516520882678,"daily_sum,Google Ads,Product D,Product A,Organic search,Facebook",,35.0
+0.018648807281795313,"daily_sum,Google Ads,Product D,Product A,Organic search,Facebook,CRM",,35.0
+0.021346199687722462,"daily_sum,Google Ads,Product D,Product A,Organic search,Facebook,CRM,Product B",,35.0
+0.01896355819844454,"daily_sum,Google Ads,Product D,Product A,Organic search,Facebook,CRM,Product B,Product E",,35.0
+0.026169798061267575,"daily_sum,Google Ads,Product D,Product A,Organic search,Facebook,CRM,Product B,Product E,Direct",,35.0
+0.019627064178053537,"daily_sum,Google Ads,Product D,Product A,Organic search,Facebook,CRM,Product B,Product E,Direct,Product C",,35.0
+0.020456638586866246,"daily_sum,Google Ads,Product D,Product A,Organic search,Facebook,CRM,Product B,Product E,Direct,Product C,Product F",,35.0
+0.020086518610106536,"daily_sum,Google Ads,Product D,Product A,Organic search,Facebook,CRM,Product B,Product E,Direct,Product C,Product F,Referral",,35.0
+0.018684412356197173,"daily_sum,Google Ads,Product D,Product A,Organic search,Facebook,CRM,Product B,Product E,Direct,Product C,Product F,Referral,live_campaign",,35.0
+0.018911973587976822,daily_sum,,30.0
+0.019318152955963837,"daily_sum,Google Ads",,30.0
+0.019124545910936926,"daily_sum,Google Ads,Product D",,30.0
+0.019268333803276798,"daily_sum,Google Ads,Product D,Product A",,30.0
+0.018984358663185666,"daily_sum,Google Ads,Product D,Product A,Organic search",,30.0
+0.0194020718993812,"daily_sum,Google Ads,Product D,Product A,Organic search,Facebook",,30.0
+0.018732499530039647,"daily_sum,Google Ads,Product D,Product A,Organic search,Facebook,CRM",,30.0
+0.017945046902813584,"daily_sum,Google Ads,Product D,Product A,Organic search,Facebook,CRM,Product B",,30.0
+0.018127929817709963,"daily_sum,Google Ads,Product D,Product A,Organic search,Facebook,CRM,Product B,Product E",,30.0
+0.018582257734257954,"daily_sum,Google Ads,Product D,Product A,Organic search,Facebook,CRM,Product B,Product E,Direct",,30.0
+0.01994988040994734,"daily_sum,Google Ads,Product D,Product A,Organic search,Facebook,CRM,Product B,Product E,Direct,Product C",,30.0
+0.017891607276250568,"daily_sum,Google Ads,Product D,Product A,Organic search,Facebook,CRM,Product B,Product E,Direct,Product C,Product F",,30.0
+0.02094955695839974,"daily_sum,Google Ads,Product D,Product A,Organic search,Facebook,CRM,Product B,Product E,Direct,Product C,Product F,Referral",,30.0
+0.018423029855313928,"daily_sum,Google Ads,Product D,Product A,Organic search,Facebook,CRM,Product B,Product E,Direct,Product C,Product F,Referral,live_campaign",,30.0
+0.019482779306865462,daily_sum,,25.0
+0.01939691697409786,"daily_sum,Google Ads",,25.0
+0.018913312074838082,"daily_sum,Google Ads,Product D",,25.0
+0.02038542550189836,"daily_sum,Google Ads,Product D,Product A",,25.0
+0.023292564659859266,"daily_sum,Google Ads,Product D,Product A,Organic search",,25.0
+0.019471353775235713,"daily_sum,Google Ads,Product D,Product A,Organic search,Facebook",,25.0
+0.022279008616530933,"daily_sum,Google Ads,Product D,Product A,Organic search,Facebook,CRM",,25.0
+0.022947894761760092,"daily_sum,Google Ads,Product D,Product A,Organic search,Facebook,CRM,Product B",,25.0
+0.028137186411412288,"daily_sum,Google Ads,Product D,Product A,Organic search,Facebook,CRM,Product B,Product E",,25.0
+0.02201941739591587,"daily_sum,Google Ads,Product D,Product A,Organic search,Facebook,CRM,Product B,Product E,Direct",,25.0
+0.0199652378323912,"daily_sum,Google Ads,Product D,Product A,Organic search,Facebook,CRM,Product B,Product E,Direct,Product C",,25.0
+0.022409348285755765,"daily_sum,Google Ads,Product D,Product A,Organic search,Facebook,CRM,Product B,Product E,Direct,Product C,Product F",,25.0
+0.020488923647817073,"daily_sum,Google Ads,Product D,Product A,Organic search,Facebook,CRM,Product B,Product E,Direct,Product C,Product F,Referral",,25.0
+0.02793160882480909,"daily_sum,Google Ads,Product D,Product A,Organic search,Facebook,CRM,Product B,Product E,Direct,Product C,Product F,Referral,live_campaign",,25.0
+0.018905495998543895,daily_sum,,20.0
+0.01846172896362298,"daily_sum,Google Ads",,20.0
+0.01933028105655898,"daily_sum,Google Ads,Product D",,20.0
+0.018719361635507973,"daily_sum,Google Ads,Product D,Product A",,20.0
+0.020166738168436397,"daily_sum,Google Ads,Product D,Product A,Organic search",,20.0
+0.017988427980203683,"daily_sum,Google Ads,Product D,Product A,Organic search,Facebook",,20.0
+0.022395620715439848,"daily_sum,Google Ads,Product D,Product A,Organic search,Facebook,CRM",,20.0
+0.024692986731101634,"daily_sum,Google Ads,Product D,Product A,Organic search,Facebook,CRM,Product B",,20.0
+0.02937797065899335,"daily_sum,Google Ads,Product D,Product A,Organic search,Facebook,CRM,Product B,Product E",,20.0
+0.022887884795549276,"daily_sum,Google Ads,Product D,Product A,Organic search,Facebook,CRM,Product B,Product E,Direct",,20.0
+0.018991387958147372,"daily_sum,Google Ads,Product D,Product A,Organic search,Facebook,CRM,Product B,Product E,Direct,Product C",,20.0
+0.03064422145245876,"daily_sum,Google Ads,Product D,Product A,Organic search,Facebook,CRM,Product B,Product E,Direct,Product C,Product F",,20.0
+0.02011914850273539,"daily_sum,Google Ads,Product D,Product A,Organic search,Facebook,CRM,Product B,Product E,Direct,Product C,Product F,Referral",,20.0
+0.028375332498114338,"daily_sum,Google Ads,Product D,Product A,Organic search,Facebook,CRM,Product B,Product E,Direct,Product C,Product F,Referral,live_campaign",,20.0
